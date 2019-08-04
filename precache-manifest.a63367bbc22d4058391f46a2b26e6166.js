@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "53154ffa67e7ac7d8f79f893d4a9c039",
+    "revision": "a97febaed6818555380d69b27f4dc85c",
     "url": "/teewao-birthday/index.html"
   },
   {
-    "revision": "2bf04b5a0f6b186bf325",
+    "revision": "8818f07e977c2a53398a",
     "url": "/teewao-birthday/static/css/main.becce491.chunk.css"
   },
   {
-    "revision": "d93fae47310e6c9c72a0",
-    "url": "/teewao-birthday/static/js/2.f6df4593.chunk.js"
+    "revision": "2ed684baea618c4008b3",
+    "url": "/teewao-birthday/static/js/2.73f32ee7.chunk.js"
   },
   {
-    "revision": "2bf04b5a0f6b186bf325",
-    "url": "/teewao-birthday/static/js/main.a9287190.chunk.js"
+    "revision": "8818f07e977c2a53398a",
+    "url": "/teewao-birthday/static/js/main.71b2150b.chunk.js"
   },
   {
     "revision": "31a7eff51f5cf5d46c14",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d763a272a1a46e18c579b2e7fa545211",
     "url": "/teewao-birthday/static/media/startcity.d763a272.jpg"
+  },
+  {
+    "revision": "af3b5cea6107c0d5f8a334d7dea418bb",
+    "url": "/teewao-birthday/static/media/teewao.af3b5cea.jpg"
   },
   {
     "revision": "6bf64772d2379e11f5da9d15ab83b210",
