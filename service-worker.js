@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/teewao-birthday/precache-manifest.a63367bbc22d4058391f46a2b26e6166.js"
+  "/teewao-birthday/precache-manifest.342048bf548f06f699d8364fcc89ab48.js"
 );
 
 self.addEventListener('message', (event) => {
