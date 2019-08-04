@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0498a3ae857d20525943c06e3ca0103c",
+    "revision": "c1d51d6fce5baaa109b2a362ab71a638",
     "url": "/teewao-birthday/index.html"
   },
   {
-    "revision": "a513fed28986b0417acd",
+    "revision": "ece094a36dae8e48c567",
     "url": "/teewao-birthday/static/css/main.becce491.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/teewao-birthday/static/js/2.73f32ee7.chunk.js"
   },
   {
-    "revision": "a513fed28986b0417acd",
-    "url": "/teewao-birthday/static/js/main.ddf21d6a.chunk.js"
+    "revision": "ece094a36dae8e48c567",
+    "url": "/teewao-birthday/static/js/main.f0c0eef2.chunk.js"
   },
   {
     "revision": "31a7eff51f5cf5d46c14",
