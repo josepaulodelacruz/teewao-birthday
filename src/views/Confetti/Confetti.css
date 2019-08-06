@@ -1,0 +1,14 @@
+.confetti-wrapper {
+    display: grid;
+    height: 90vh;
+}
+
+.fontStyling {
+    font-family: 'Satisfy', cursive;
+}
+
+.wrapper {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
